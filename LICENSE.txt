@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Ajibola Ganiyu
+Copyright (c) 2025 Ajibola Ganiyu, Ohi Moiza, Peace Enesi, Joanna Chimalilo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
